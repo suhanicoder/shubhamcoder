@@ -1,0 +1,89 @@
+
+*{
+    color: blue;   /* universaL SELECTOR */
+}
+
+h1 
+{
+    color:green;
+}
+
+/*
+
+
+body
+{
+    /*background-color: #00ff00;
+    background-color: #ffff00;
+    background-color:#93032E;
+    
+} */
+
+#headingone{
+    color: yellow;
+}
+
+#headingTwo
+{
+    color:aqua;
+}
+
+#headingThree
+{
+    color:blue;
+}
+
+#headingFour
+{
+    color:blueviolet;
+}
+
+.myclass
+{
+    color:chocolate;
+}
+
+#box
+{
+    background-color: brown;
+}
+
+/*.heading
+{
+    color:red;
+}*/
+
+h1,h2,h3{
+    color:red;
+}
+
+button
+{
+    background-color: green;
+    
+
+}
+
+p{
+    text-align: start;
+    text-decoration: line-through;
+}
+
+#sam1
+{
+    font-weight: normal;
+}
+
+#sam2
+{
+    font-weight: bold;
+}
+#sam3
+{
+    font-weight: bolder;
+}
+
+#sam4
+{
+    font-weight: lighter;
+}
